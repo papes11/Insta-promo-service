@@ -24,7 +24,7 @@ export function Footer() {
             </Link>
           </div>
         </div>
-        <div className="mt-8 flex justify-center space-x-6">
+        <div className="flex justify-center space-x-6">
           <Link href="#" className="text-sm text-gray-600 hover:text-gray-900">Privacy Policy</Link>
           <Link href="#" className="text-sm text-gray-600 hover:text-gray-900">Terms of Service</Link>
           <Link href="#" className="text-sm text-gray-600 hover:text-gray-900">Cookie Policy</Link>
